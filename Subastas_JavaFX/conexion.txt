@@ -1,0 +1,3 @@
+jdbc:sqlserver://localhost:1433;databaseName=SubastasDB;encrypt=true;trustServerCertificate=true;
+sa
+123456

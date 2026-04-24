@@ -1,0 +1,3 @@
+jdbc:sqlserver://NUMQUAM\SQLEXPRESS;databaseName=SubastasDB;encrypt=true;trustServerCertificate=true
+sa
+123456
